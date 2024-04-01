@@ -11,9 +11,9 @@
 
 ```
 ├── video                   	# Videos recorded for Task 3
-├── .gitignore					# -
-├── LICENSE						# MIT License
-├── README.md					# Readme file
+├── .gitignore			# -
+├── LICENSE			# MIT License
+├── README.md			# Readme file
 ├── cartpole_balancing.ipynb    # Notebook for Assignment 1
 ├── requirements.txt            # Dependencies for project
 
