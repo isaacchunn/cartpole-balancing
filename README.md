@@ -2,7 +2,7 @@
  Balancing a Cartpole using Tabular Q Learning.
 
 ## ⭐ Authors
-* [@isaacchunn](https://github.com/Neo-Zenith) (Isaac Chun)
+* [@isaacchunn](https://github.com/isaacchunn) (Isaac Chun)
 * [@Jaysenso](https://github.com/Jaysenso) (J'sen Ong)
 * [@Marcushjf](https://github.com/Marcushjf) (Marcus Ho)
 
